@@ -6,7 +6,8 @@
 
 # LOGIN
 
-![image](https://user-images.githubusercontent.com/121991880/216944471-7f746218-f7bf-4db1-91d1-5a2f1fa40251.png)
+![image](https://user-images.githubusercontent.com/121991880/216976392-d9a6671a-ba2b-47ae-a325-31acc4fe567e.png)
+
 
 # SIGNUP PAGE
 
